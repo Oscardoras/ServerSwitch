@@ -1,0 +1,17 @@
+name: ServerSwitch
+version: 1.0.0
+api-version: 1.13
+description: "A plugin to switch a player to another server."
+author: oscardoras
+main: org.bukkitplugin.serverswitch.ServerSwitchPlugin
+permissions:
+  serverswitch:
+    default: op
+    children:
+      serverswitch.command: true
+  serverswitch.command:
+    default: op
+    children:
+      serverswitch.command.switch: true
+  serverswitch.command.switch:
+    default: op
