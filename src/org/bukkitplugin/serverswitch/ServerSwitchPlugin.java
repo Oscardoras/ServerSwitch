@@ -8,12 +8,12 @@ import org.bukkit.entity.Entity;
 import org.bukkit.entity.Player;
 import org.bukkit.permissions.Permission;
 import org.bukkitutils.BukkitPlugin;
-import org.bukkitutils.command.v1_14_3_V1.Argument;
-import org.bukkitutils.command.v1_14_3_V1.CommandRegister;
-import org.bukkitutils.command.v1_14_3_V1.CommandRegister.CommandExecutorType;
-import org.bukkitutils.command.v1_14_3_V1.arguments.EntitySelectorArgument;
-import org.bukkitutils.command.v1_14_3_V1.arguments.EntitySelectorArgument.EntitySelector;
-import org.bukkitutils.command.v1_14_3_V1.arguments.StringArgument;
+import org.bukkitutils.command.v1_15_V1.Argument;
+import org.bukkitutils.command.v1_15_V1.CommandRegister;
+import org.bukkitutils.command.v1_15_V1.CommandRegister.CommandExecutorType;
+import org.bukkitutils.command.v1_15_V1.arguments.EntitySelectorArgument;
+import org.bukkitutils.command.v1_15_V1.arguments.StringArgument;
+import org.bukkitutils.command.v1_15_V1.arguments.EntitySelectorArgument.EntitySelector;
 import org.bukkitutils.io.TranslatableMessage;
 
 import com.google.common.io.ByteArrayDataOutput;
