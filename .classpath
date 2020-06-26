@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/BukkitUtils"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/SpigotUtils"/>
 	<classpathentry kind="lib" path="/home/oscar/Plugins/lib/guava.jar"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
 		<attributes>
